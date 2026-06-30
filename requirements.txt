@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+surprise      
+scipy
+matplotlib
+seaborn
+streamlit      
+flask       
+torch          
+jupyter
+notebook
+ipykernel
+ipywidgets
+
